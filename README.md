@@ -1,4 +1,5 @@
 📊 Power BI Dashboard Project
+
 📁 Project Overview
 This Power BI dashboard project demonstrates the use of data analytics and visualization to derive actionable business insights. It is designed to be user-friendly, dynamic, and impactful for stakeholders to explore key metrics and make data-driven decisions.
 
